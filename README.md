@@ -2,6 +2,8 @@
 
 This is the official repository for **Non-invasive vision-based personal comfort model using thermographic images and deep learning**, our paper published in the Journal of Automation in Construction. 
 
+The paper can be found [here](https://doi.org/10.1016/j.autcon.2024.105811)
+
 # Prerequisites
 Create a conda environment and install the following:
 
